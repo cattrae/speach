@@ -1,7 +1,7 @@
 {
   "name": "speach",
   "version": "0.1.1",
-  "main": "dist/bundle.js",
+  "main": "script.js",
   "repository": "https://github.com/ericandrewlewis/speach.git",
   "author": "Eric Lewis <eric.andrew.lewis@gmail.com>",
   "license": "MIT",
